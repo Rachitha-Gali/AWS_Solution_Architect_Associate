@@ -18,7 +18,7 @@ import org.openqa.selenium.Keys;
 
 public class App 
 {
-	private static String INPUTFILE = "C:\\Users\\Rachitha\\Downloads\\AWS Certified Solutions Architect Practice Tests_ Associate SAA-C01 Exam ( PDFDrive ).pdf" ;
+	private static String INPUTFILE = "pdf" ;
 	static WebDriver driver;
 	static String username = "**************";
 	static String password = "****************";
