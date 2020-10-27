@@ -17,5 +17,5 @@ I have made use of Selenium and a webdriver to create quizzes using Google Forms
     * [Define Operationally Excellent Architectures](https://docs.google.com/forms/d/e/1FAIpQLSc8Qch9pfEm6_t8RXvT8Wno6HT0LEiADYSv3JhNYSquQbA21g/viewform?usp=sf_link)
     * [practice test](https://docs.google.com/forms/d/e/1FAIpQLScbYsZTtc81RGfuY15U4_tXETtXZE0nOiYYGECJu8g2MCPamQ/viewform?usp=sf_link)
     
-    PS: Each question is score for 1point and the total score are obtained on submission. Note that the questions will not appear in order as I have enabled shuffling.  
+    PS: Each question is scored for 1point and the total score is obtained on submission. Note that the questions will not appear in order as I have enabled shuffling.  
 
